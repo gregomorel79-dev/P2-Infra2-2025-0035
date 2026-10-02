@@ -1,6 +1,6 @@
 # P2 – Infra 2: VPN Site-to-Site FortiGate ↔ MikroTik
 **Gregorys Morel Duluc – 2025-0035 – Seguridad de Redes (ITLA)**
-
+https://youtu.be/j5v7lGj5dFg
 ## Topología
 FG1 (usuarios) ⇄ ISP 200.35.0.0/24 ⇄ MT1 – MikroTik CHR 6.49.17 (servidor).
 Se usó MikroTik por no disponer de imagen Cisco.
